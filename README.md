@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kapphahnMS/Test%20Project/_apis/build/status/kkapphahn.pipelines-java?branchName=master)](https://dev.azure.com/kapphahnMS/Test%20Project/_build/latest?definitionId=16&branchName=master)
 
 # Contributing
 
